@@ -1,0 +1,6 @@
+{
+  "name": "Spark Bridge",
+  "description": "Puente invisible para lanzar Walmart Spark Driver",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
